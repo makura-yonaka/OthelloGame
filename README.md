@@ -1,2 +1,2 @@
 # OthelloGame
-C# Othello Game α
+C# Othello Game version α
